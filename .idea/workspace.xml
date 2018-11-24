@@ -4,6 +4,8 @@
     <list default="true" id="a5c6bcb2-27e5-4afe-98a2-3d011a023dcb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,20 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="207" column="52" selection-start-line="207" selection-start-column="52" selection-end-line="207" selection-end-column="52" />
-              <folding>
-                <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#38214#38220#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="317">
+              <caret line="575" column="26" selection-start-line="575" selection-start-column="26" selection-end-line="575" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -122,17 +115,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+            <state relative-caret-position="1418">
+              <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="121" selection-start-line="45" selection-start-column="121" selection-end-line="45" selection-end-column="121" />
+            <state relative-caret-position="306">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -193,10 +186,12 @@
       <find>querySelector</find>
       <find>Mega</find>
       <find>Chartist</find>
+      <find>../plugins</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>'Changa', sans-serif</replace>
+      <replace>plugins</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\hamza\Downloads\Compressed\ampleadmin\ampleadmin\ampleadmin-html\ampleadmin-rtl</dir>
@@ -211,12 +206,12 @@
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/js/custom.min.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/../../‏‏ampleadmin-html - نسخة/ampleadmin-rtl/form-validation.html" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/js/dashboard1.js" />
         <option value="$PROJECT_DIR$/css/custome.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/register.html" />
       </list>
     </option>
   </component>
@@ -229,9 +224,25 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/Magnific-Popup-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/bootstrap-old/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/bootstrap-treeview-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/chartist-plugin-tooltip-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/dropify/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/dropzone-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/flot/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/holderjs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/jquery-asColorPicker-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/jquery-steps-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/jquery-wizard-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/jsgrid/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/morrisjs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/sidebar-nav/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/tablesaw-master/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bower_components/typeahead.js-master/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-274" />
     <option name="y" value="298" />
     <option name="width" value="1382" />
@@ -288,12 +299,12 @@
       <workItem from="1542789293030" duration="2479000" />
       <workItem from="1542880119941" duration="5681000" />
       <workItem from="1543036664361" duration="1161000" />
-      <workItem from="1543064669444" duration="2738000" />
+      <workItem from="1543064669444" duration="2795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17187000" />
+    <option name="totallyTimeSpent" value="17244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -345,20 +356,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="121" selection-start-line="45" selection-start-column="121" selection-end-line="45" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../‏‏ampleadmin-html - نسخة/ampleadmin-rtl/form-validation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9044">
@@ -396,17 +393,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="207" column="52" selection-start-line="207" selection-start-column="52" selection-end-line="207" selection-end-column="52" />
-          <folding>
-            <element signature="n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#tr#2;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#tr#3;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#tr#4;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#tr#5;n#tbody#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#38214#38220#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="317">
+          <caret line="575" column="26" selection-start-line="575" selection-start-column="26" selection-end-line="575" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1418">
+          <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
